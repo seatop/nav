@@ -1,8 +1,8 @@
 remote_theme: just-the-docs/just-the-docs
 
-title: woz.one
+title: "woz.one"
 
-description: 一个建在Github Page上的个人网址收藏站。
+description: "一个建在Github Page上的个人网址收藏站。"
 
 search_enabled: true
 
