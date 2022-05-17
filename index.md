@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "网站首页"
-nav_oder: 1
+nav_order: 1
 ---
 
 ## 常用网址
@@ -11,3 +11,4 @@ nav_oder: 1
 - [谷歌翻译](https://translate.google.cn/)
 - [新浪微博](https://weibo.com/)
 - [YunFileNas](https://fileyun.quickconnect.cn/)
+- [Github](https://github.com/)
