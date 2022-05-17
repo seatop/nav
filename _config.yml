@@ -2,8 +2,7 @@ remote_theme: just-the-docs/just-the-docs
 title: "woz.one"
 search_enabled: true
 gh_edit_link: true
-gh_edit_link_text: "Edit this page on GitHub"
-gh_edit_repository: "https://github.com/seatop/nav" # the github URL for your repo
-gh_edit_branch: "main" # the branch that your docs is served from
-# gh_edit_source: docs # the source that your files originate from
-gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
+gh_edit_link_text: "Edit"
+gh_edit_repository: "https://github.com/seatop/nav"
+gh_edit_branch: "main"
+gh_edit_view_mode: "tree"
