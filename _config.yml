@@ -5,14 +5,3 @@ title: "woz.one"
 description: "一个建在Github Page上的个人网址收藏站。"
 
 search_enabled: true
-
-collections:
-  docs:
-    permalink: "/:collection/:path/"
-    output: true
-
-just_the_docs:
-  collections:
-    docs:
-      name: Documentation
-   
