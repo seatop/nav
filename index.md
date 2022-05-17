@@ -12,3 +12,7 @@ nav_order: 1
 - [新浪微博](https://weibo.com/)
 - [YunFileNas](https://fileyun.quickconnect.cn/)
 - [Github](https://github.com/)
+- [有线认证](http://10.112.243.3/ac_portal/default/pc.html?template=default&tabs=pwd&vlanid=100)
+- [无线认证](http://10.112.175.253:8080/portal/templatePage/20170420111005296/login_custom.jsp)
+- [学科网](https://www.zxxk.com/)
+- [智学网](https://www.zhixue.com/)
