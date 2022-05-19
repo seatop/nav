@@ -15,4 +15,4 @@ nav_order: 1
 - [无线认证](http://10.112.175.253:8080/portal/templatePage/20170420111005296/login_custom.jsp) - http://10.112.175.253:8080/portal/templatePage/20170420111005296/login_custom.jsp
 - [学科网](https://www.zxxk.com/) - https://www.zxxk.com/
 - [智学网](https://www.zhixue.com/) - https://www.zhixue.com/
-- [个人数学随笔](https://www.seatop.com.cn/) - https://www.seatop.com.cn/
+- [个人博客](https://www.seatop.com.cn/) - https://www.seatop.com.cn/
