@@ -1,8 +1,3 @@
 remote_theme: just-the-docs/just-the-docs
 title: "woz.one"
 search_enabled: true
-gh_edit_link: true
-gh_edit_link_text: "Edit"
-gh_edit_repository: "https://github.com/seatop/nav"
-gh_edit_branch: "main"
-gh_edit_view_mode: "tree"
