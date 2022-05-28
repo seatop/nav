@@ -16,4 +16,4 @@ nav_order: 1
 - [学科网](https://www.zxxk.com/){:target="_blank"} - https://www.zxxk.com/
 - [智学网](https://www.zhixue.com/){:target="_blank"} - https://www.zhixue.com/
 - [个人博客](https://www.seatop.com.cn/){:target="_blank"} - https://www.seatop.com.cn/
-- [Github/Wo.zone](https://github.com/seatop/nav){:target="_blank"} - https://github.com/seatop/nav
+- [Github/Woz.one](https://github.com/seatop/nav){:target="_blank"} - https://github.com/seatop/nav
